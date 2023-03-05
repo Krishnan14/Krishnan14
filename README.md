@@ -7,4 +7,4 @@
 
 
 
-![Gopalakrishnan's GitHub stats](https://https://github-readme-stats.vercel.app/api?username=Krishnan14&show_icons=true)
+![Gopalakrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnan14&show_icons=true)
