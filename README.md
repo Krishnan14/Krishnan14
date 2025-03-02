@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @gopalakrishnan
-- 👀 I’m interested in Andriod Mobile Apps
-- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on Software Architecture
 - 📫 How to reach me krishnangopal@gmail.com
 
